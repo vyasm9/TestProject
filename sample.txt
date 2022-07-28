@@ -1,2 +1,4 @@
 Sample file1
 Sample file2
+
+Sample file3
